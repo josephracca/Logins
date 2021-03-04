@@ -29,4 +29,8 @@ export class DataService {
 
       })
   }
+
+  setOBJ(object: ILogin):void{
+    
+  }
 }
